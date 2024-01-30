@@ -1,0 +1,263 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Miguel Monroe",
+    "label": "Senior Program Manager at Cariad, Inc.",
+    "image": "",
+    "email": "miguel_monroe@hotmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "I've been working in the industry for about 20 years now. I have had the pleasure of working with some brilliant people along the way, and we've done some really cool projects. My favorite projects are the kind you're not sure you can actually pull off. Often the unexpected can occur, but success is mandatory. So you use your resources and tools and hand craft a solution, and it works for me. I like to push the envelope. \n\nI have been keeping busy working with various customers both large and small.  Some projects are simple, others more complicated.  I recently collaborated with a virtual team to complete a key feature for a flagship store launch in both NY and LA.  Not being able to be on site was a challenge but the correct solution was implemented and it was up and live on time.\n\nI am definitely a problem solver, but I’d rather prevent them.",
+    "location": {
+      "countryCode": "US",
+      "address": "United States"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "migmon",
+        "url": "https://www.linkedin.com/in/migmon/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "CARIAD, Inc.",
+      "position": "Senior Program Manager",
+      "startDate": "2021-09-30",
+      "endDate": "",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/cariadinc/"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Program Manager",
+      "startDate": "2017-11-30",
+      "endDate": "2021-09-30",
+      "highlights": [],
+      "url": "",
+      "location": "redmond, wa"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Senior Azure Support engineer",
+      "startDate": "2016-05-31",
+      "endDate": "2017-11-30",
+      "highlights": [],
+      "url": "",
+      "location": "Redmond, wa"
+    },
+    {
+      "name": "Rahi Systems",
+      "position": "Data Center Solutions Specialist",
+      "startDate": "2015-11-30",
+      "endDate": "2016-05-31",
+      "highlights": [],
+      "summary": "Sales",
+      "url": "https://www.linkedin.com/company/rahi-systems/"
+    },
+    {
+      "name": "Emerson Network Power - Avocent",
+      "position": "Sales Engineer",
+      "startDate": "2009-10-31",
+      "endDate": "2015-10-31",
+      "highlights": [],
+      "summary": "•\tMicrosoft on-site field support for our KVM over IP hardware and software\n•\tAssisting the sales team with the technical aspect of our products, and providing training/implementation to new customers in and outside of Microsoft with the products I support.\n•\tIn collaboration with Microsoft I have driven the creation of Avocent DSView 3 64-bit suite to address problems with DSView 32 bit Java Virtual Machine at Microsoft, where the maximum devices was limited around 25k devices, we are now over 80k and still stable.\n•\tI devised a method to load balancing DSView with F5 hardware and published a best practices white paper now in use globally within Microsoft and Emerson.\n•\tStrategizing and planning with MS and Avocent to provide and create features for Trellis; Emerson’s next-gen datacenter management suite.\n•\tWorking directly with my customers at MS we were able to negotiate new licensing agreements for our largest customers making it an easier process to scale large infrastructures.\n•\tResearched, designed and implemented a reliable scalable infrastructure for Avocent’s largest customer spanning over 80k devices locally and at Microsoft datacenters in China, India, and Israel into a single readily accessible entity.\n•\tI lead the effort to get published API’s to Microsoft to allow them to automate the DSView experience. Results are available on the MLS DSView quick launch tool.\n•\tChanged the way Microsoft accesses test systems across campus by implementing, educating users, supporting DSView and Avocent appliances which enables my customers to consolidate and access resources from a single pane of glass view, reducing the need for on-site staff and lowering operational support costs.\n•\tSupporting inside sales and Federal sales team as well as Dell branded hardware. Responsibilities include all product demos, preliminary troubleshooting, and escalations for hardware and software sales/support questions.",
+      "url": "https://www.linkedin.com/company/avocent/",
+      "location": "north west"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Operations Engineer",
+      "startDate": "2006-04-30",
+      "endDate": "2009-10-31",
+      "highlights": [],
+      "summary": "•\tResponsible for administration of 15000+ server/SFF machines and network in 6 labs\n•\tProven history of leadership with vendor and contractor teams.\n•\tExperienced in capacity planning in regards to power utilization, cooling capacity, space management, as well as project coordination.\n•\tRevolutionized and drove standards with lab cable management and documentation.\n•\tDevised KVM over IP framework using Avocent DSView, and Server Technology power strips for managed power infrastructure.\n•\tRevolutionized SQL cluster test environment deployments for CSG teams using small SAN’s and fiber networks.\n•\tInvolved in hiring and interviewing of new candidates.",
+      "url": "https://www.linkedin.com/company/microsoft/",
+      "location": "redmond, wa"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Woodinville high school",
+      "area": "",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Eagle Scout",
+      "date": "1995-08-31",
+      "awarder": "Boy Scouts of America",
+      "summary": ""
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ITIL v3",
+      "issuer": null
+    },
+    {
+      "name": "Strategic Thinking",
+      "issuer": "LinkedIn",
+      "startDate": "2019-05-31",
+      "url": "https://www.linkedin.com/learning/certificates/65a6dd186d3fd7ed4837f9f56488cd1d9f8806aaf983527a4cf9b9180f3ba52a?trk=backfilled_certificate"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "IT Operations",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Sales Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Hardware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise Solution Selling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Emerson Network Power - Avocent",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Infrastructure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Pre-sales",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Integration",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Enterprise Software",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Troubleshooting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Virtualization",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Data Center",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Computer Hardware",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cloud Computing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Networking",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Professional Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SharePoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Solution Selling",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "IP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cluster",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DCIM",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Strategy",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Program Management",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
