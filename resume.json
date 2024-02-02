@@ -1,9 +1,11 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "meta": {
+    "theme": "elegant"
+  },
   "basics": {
     "name": "Miguel Monroe",
     "label": "Senior Program Manager at Cariad, Inc.",
-    "image": "",
+    "image": "https://avatars.githubusercontent.com/migglet",
     "email": "miguel_monroe@hotmail.com",
     "phone": "",
     "url": "",
